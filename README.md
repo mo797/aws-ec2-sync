@@ -1,2 +1,11 @@
-# aws-ec2-sync
-Node.js Template Script
+## Installation
+
+### Source Code
+- Clone the repo
+
+### Dependencies
+- Express: npm i express
+
+---
+
+## Usage
